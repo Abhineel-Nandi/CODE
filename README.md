@@ -1,4 +1,4 @@
-# code
+# CODE
 A minimalistic bare bone emulation of VIM/NVIM Text Editors
 
 This project has been made comprehensively to be understandable by layman
@@ -16,7 +16,7 @@ Installation :
     cd code
     make
 
-Usage: code `<filename>`
+Usage: CODE `<filename>`
 
 Keys:
 

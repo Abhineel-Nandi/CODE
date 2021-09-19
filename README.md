@@ -13,7 +13,7 @@ has been made in a very modular approach with no additional dependencies and ent
 Installation : 
     
     git clone https://github.com/Abhineel-Nandi/CODE.git
-    cd code
+    cd CODE
     make
     sudo cp CODE /usr/local/bin/
 

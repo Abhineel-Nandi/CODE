@@ -15,6 +15,7 @@ Installation :
     git clone https://github.com/Abhineel-Nandi/code.git
     cd code
     make
+    sudo cp CODE /usr/local/bin/
 
 Usage: CODE `<filename>`
 

@@ -5,7 +5,7 @@ This project has been made comprehensively to be understandable by layman
 too. This had been on my list for many days and I had it on my private repo for 
 too long.
 
-**CODE** as a text editor that is extremely light and minimal when
+**CODE** is a text editor that is extremely light and minimal when
 compared to ***VIM/NVIM*** . Its compatible with all terminal and shell prompts 
 including WSL in windows. It has nearly 1200 lines of Code ,and 
 has been made in a very modular approach with no additional dependencies and entirely written in c.

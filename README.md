@@ -25,6 +25,34 @@ Keys:
     CTRL-Q: Quit
     CTRL-F: Find string in file (ESC to exit search, arrows to navigate)
     
+## TEST CASES AND SCREENSHOTS
+
+**1]** This figure shows the intital usage of how we'll call the text editor from the terminal.
+       ![alt](SS/1st.png)
+
+**2]** This figure shows the welcome screen of the **CODE editor**. In this window we have a 
+       status bar in bottom part of screen. Which introduces us to ***shortcuts to save, search and 
+       quit***. Also additionally we get the ***line number where currently our cursor is***.
+       ![alt](SS/2nd.png)
+
+**3]** This figure shows the syntax highlighting feature of the text editor. Here in applied to CPP language.
+       ![alt](SS/3rd.png)
+
+**4]** This figure shows functionality of **CTRL+S to save** the file.
+       ![alt](SS/4th.png)
+       
+**5]** In this figure we can see that the code written was compiled successfully.
+       ![alt](SS/5th.png)
+
+**6]** In here i demonstrate the search window **visible as status word** in the bottom corner.
+       Here i have tried to model a dynamic search algo wherein as an when we type things they 
+       should get highlighted and our cursor must be on them. **No need to drag on the mouse**.
+       ![alt](SS/6th.png)
+       
+ **7]** Final SS of the success of search operation where ***SyntaxHighlighting*** word is highlightedas an when we type
+        and we get response in real time.   
+        ![alt](SS/7th.png)
+    
 ## TODO FEATURES
 
 Would like to bring in more customization and improve scrolling as in nvim 
